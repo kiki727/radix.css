@@ -204,6 +204,10 @@ section {
 	margin: 1rem;
 }
 
+article {
+	padding: .7rem;
+}
+
 .dark, .dark a.button {
   color: var(--bg);
   background-color: var(--fg); 
